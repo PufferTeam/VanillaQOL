@@ -9,6 +9,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "2b2d4eff6a2166d4d2c48a596c5745d5c0936859644ad182ed27b393c8ad7f42"
 
 [[files]]
+file = "config/yosbr/config/clienttweaks-common.toml"
+hash = "c041ae040a41d5983f9f65a71413dbbfe04f553ce894001227fc52906d2068ee"
+
+[[files]]
 file = "config/yosbr/config/ias.json"
 hash = "169f7d43162a95a8053d97e5dde7b2c8c297b8f534e4078a2ac902c7217291f5"
 
@@ -23,6 +27,10 @@ hash = "379d3284b37430741d676216d424d49dfc98355fa154f8a3dd97bebcbca756a4"
 [[files]]
 file = "config/yosbr/config/shouldersurfing-client.toml"
 hash = "75bb96800fc384d4bebf3c202d0d85673e08bf246a40059490783aac8c6d16d8"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "6746a215c221ca3cebb496f9e3b21ca636cda464888de39a98a39a5e8e2e4908"
 
 [[files]]
 file = "config/yosbr/options.txt"
