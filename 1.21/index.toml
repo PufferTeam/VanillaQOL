@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "ffc838cf26692e8e0d5e4f8790948e00619b2fc772477a7034ccc4c4fea03573"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "2b2d4eff6a2166d4d2c48a596c5745d5c0936859644ad182ed27b393c8ad7f42"
+
+[[files]]
+file = "config/yosbr/config/cullleaves.json"
+hash = "0cbaa64a430a29c1a493dc9f670a1288de91688f3ee4957fab41ad8ae807bd98"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "b562484e864d9d2f28e1dbded720cff7ada38a252f9234a2a0e22353c0032b77"
 
 [[files]]
 file = "config/yosbr/config/screenshots.json"
@@ -194,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "8f5a620e607a3847c99c9e2127e30dc1dd91333c9f45ee8b639800c3b6a14ae9"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "49e7fd585c233da81e0825d1679028c7e0bc1eb74dafa98f25cab88437f53ed1"
 metafile = true
 
 [[files]]
