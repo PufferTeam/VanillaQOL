@@ -1,0 +1,7 @@
+{
+	"enabled": true,
+	"cropImage": false,
+	"pauseGameWhileCropping": true,
+	"saveScreenshotFile": true,
+	"copyToClipboard": true
+}

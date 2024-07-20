@@ -1,0 +1,13 @@
+filename = 'Controlling-fabric-1.21-18.0.1.jar'
+name = 'Controlling'
+side = 'client'
+
+[download]
+hash = '727e47ae61d6b89bb372b483d270fb6c223b9389c7a0f80f50a1999b89893672115d4e53f4cf985b29ce3f3fc0bcc46a061ecaa075e11d159949113f24c9001f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xv94TkTM/versions/5gwvsIP7/Controlling-fabric-1.21-18.0.1.jar'
+
+[update.modrinth]
+mod-id = 'xv94TkTM'
+version = '5gwvsIP7'

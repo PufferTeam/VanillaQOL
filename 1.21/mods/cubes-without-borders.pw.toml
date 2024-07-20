@@ -1,0 +1,13 @@
+filename = 'cubes-without-borders-2.1.1+1.21.jar'
+name = 'Cubes Without Borders'
+side = 'both'
+
+[download]
+hash = 'bb6fbf6a7ae382daeea2979d4471c0acdeab1860'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5546110
+project-id = 975120

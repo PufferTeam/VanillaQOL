@@ -1,0 +1,13 @@
+name = "VanillaQOL 1.21"
+author = "PufferTeam"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "221520b87bcf25f570fbfe7f3ca28e726b42be607c82faae8ccf8987f8b5d16e"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.21"
