@@ -308,6 +308,11 @@ hash = "230733ac36375b570deeca64d37becce91ae9c157ae4769c82bcc27ba226e94c"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "8649b82304ae952be04d0dda3ce6dac5648801fd7345336a5eba72307bcb0c5b"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "838ca9b58cf64d5597d3cf090a4afcda35d8cc6bbbd93872c1c7cde0b8e27f2d"
 metafile = true
@@ -425,9 +430,4 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "6a9010aa19a749a58caf5d8d3b8b8bdafbe6dfac6754085da341693d9ba42774"
 metafile = true
