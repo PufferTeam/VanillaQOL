@@ -62,11 +62,6 @@ hash = "354dd1551fa7d34f9945abbbf2c2f8f024eded5ed0be45858d11786160903102"
 metafile = true
 
 [[files]]
-file = "mods/chunks-fade-in.pw.toml"
-hash = "d7afe9b56a027896dcf34d5d20eb2762b7ca55118c793b843d71d3eff1511c37"
-metafile = true
-
-[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "c9cb283ccc5e15516ac220630b3562552ba358b9422a7679b077a7142f16784d"
 metafile = true
@@ -394,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/title-fixer.pw.toml"
 hash = "1f9134dc8e8fa8395634f11371429298074773371c7e5562dd5152530d35a852"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "f25513292eb1d18c13c4411b0a51b16b6f2b974f6826a348dcbc0ea7dedb4208"
 metafile = true
 
 [[files]]
