@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "cdc6274305b261087764409f7a7e747e4421afe2fe391b07916ed5fccfca4062"
+hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "00108f68a2b1862ec8ba5d02750d240511422e1a9870f7762aa0bddacb394f07"
+hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
@@ -199,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/lazy-language-loader.pw.toml"
-hash = "7db57435912f377c1d5a8e63e227629a5d8d3a0b0bbfe3b9f52710ee7c34e120"
+hash = "2dbfbcf3d122fa6f771b8bb49cfbd230b4374028336bb842070b851812ec26c7"
 metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "d1e4fca4254ab44d664e481dc20f92ddfd86da42cf4b8e70d0f3708e39ef2bee"
+hash = "63be9ed95675ead31c52e301bd5c87378ca09dc17e895d135a6861ba957c5260"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c95b76aed6335673345563f5ccabed7a508b50e46b266c6839fc18787e83016f"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
