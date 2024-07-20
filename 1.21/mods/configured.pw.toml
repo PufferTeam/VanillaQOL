@@ -1,13 +1,13 @@
-filename = 'configured-fabric-1.21-2.5.0.jar'
-name = 'Configured'
-side = 'both'
+name = "Configured"
+filename = "configured-fabric-1.21-2.5.0.jar"
+side = "both"
 
 [download]
-hash = 'fec901027ce6fc38e54b9ab1b0a4ba156f415491'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "fec901027ce6fc38e54b9ab1b0a4ba156f415491"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5441234
 project-id = 457570

@@ -1,13 +1,13 @@
-filename = 'animatica-0.6.1+1.21.jar'
-name = 'Animatica'
-side = 'both'
+name = "Animatica"
+filename = "animatica-0.6.1+1.21.jar"
+side = "both"
 
 [download]
-hash = 'fd805fa03e25013b9fe824bf43f7d8a90f565c84'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "fd805fa03e25013b9fe824bf43f7d8a90f565c84"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5426917
 project-id = 533006

@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "9a6654ba05977b7aa1b0fab06b26ddac9ac67c201b2ed7c48db4df147e9be072"
+hash = "cdc6274305b261087764409f7a7e747e4421afe2fe391b07916ed5fccfca4062"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "b73d5d15641a6e23caeb7e92884f0b69cee059f2a1161f9e2c7d7f33c84d250e"
+hash = "e27ccc811527c453641895eda94b35e13209d69d6e9e9a7518210078b10adda2"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "f10f347454baeee7b272657c26df12a611b57f5cd66136ba2e68aef3cd14c5c8"
+hash = "00108f68a2b1862ec8ba5d02750d240511422e1a9870f7762aa0bddacb394f07"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "3b08cc01c12f2bbe6d4ee304d7d9de1d94bbd75ed86c85070bafb6b508c32cb5"
+hash = "b36b65edf111b888db481834ef2e70b16949d7f2d80af021aae4ecf52724eea6"
 metafile = true
 
 [[files]]
@@ -199,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/lazy-language-loader.pw.toml"
-hash = "08022247516cf3312fbf3cc4eb6d2c72e0dbc564915b457e8d3736196d3f92ca"
+hash = "7db57435912f377c1d5a8e63e227629a5d8d3a0b0bbfe3b9f52710ee7c34e120"
 metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "cee1e9c1fe7efc61d81ff43402552c9ef9792491ce1170d98aec5a8a6c9bb1e1"
+hash = "d1e4fca4254ab44d664e481dc20f92ddfd86da42cf4b8e70d0f3708e39ef2bee"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8a98999a787a362c95b5ca871655323e79badab41b6f1700cc07acef8b31d363"
+hash = "c95b76aed6335673345563f5ccabed7a508b50e46b266c6839fc18787e83016f"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "08317afa39a91d351816828ced6cfe4d4c6f3951968ccdbcc2fc81b6430354e1"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
 
 [[files]]
