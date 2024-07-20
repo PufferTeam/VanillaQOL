@@ -45,6 +45,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","continuity:glass_pane_culling_fix","continuity:default"]
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
