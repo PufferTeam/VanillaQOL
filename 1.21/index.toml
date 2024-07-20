@@ -29,10 +29,6 @@ file = "config/yosbr/config/shouldersurfing-client.toml"
 hash = "75bb96800fc384d4bebf3c202d0d85673e08bf246a40059490783aac8c6d16d8"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "6746a215c221ca3cebb496f9e3b21ca636cda464888de39a98a39a5e8e2e4908"
-
-[[files]]
 file = "config/yosbr/options.txt"
 hash = "e37035d5b1504b898352f78f3ccec9d0a6859ccaf038c03d9717004c5700d431"
 
