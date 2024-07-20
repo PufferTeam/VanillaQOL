@@ -6,7 +6,7 @@ Series of modpacks made to make any version of minecraft the most it can be with
 1. Install **one** of these three compatible launchers: [MultiMC](https://multimc.org/#Download), [PolyMC](https://polymc.org/download/) or [PrismLauncher](https://prismlauncher.org/download/). Also works with any forks of these launchers but these are the one I recommend.  
 2. Install the instance of the **version** of Minecraft you want to play. 
 
-|[1.21]()        | [More versions soon..]()                       |
+|[1.21](https://github.com/PufferTeam/VanillaQOL/raw/main/1.21/VanillaQOL%201.21.zip)        | [More versions soon..]()                       |
 |----------------|-------------------------------|
 
 
