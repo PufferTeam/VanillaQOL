@@ -13,14 +13,6 @@ file = "config/yosbr/config/ias.json"
 hash = "169f7d43162a95a8053d97e5dde7b2c8c297b8f534e4078a2ac902c7217291f5"
 
 [[files]]
-file = "config/yosbr/config/presencefootsteps/updater.json"
-hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
-
-[[files]]
-file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "98019a1c70c0848b43633db6ab7d92c67741e81f4efcc1b72083f2efbe43760d"
-
-[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "b562484e864d9d2f28e1dbded720cff7ada38a252f9234a2a0e22353c0032b77"
 
@@ -329,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "b4bfff726f0e2a2d9d4bc58e3a75ad3197c053264e8b0f474ac87e53fe9cfab7"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "8de1eae9b6d748bd8724b3b10fc1f18a72fed141626cbc4b4df8113b7076a6db"
 metafile = true
 
 [[files]]
