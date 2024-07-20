@@ -9,8 +9,16 @@ file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "2b2d4eff6a2166d4d2c48a596c5745d5c0936859644ad182ed27b393c8ad7f42"
 
 [[files]]
-file = "config/yosbr/config/cullleaves.json"
-hash = "0cbaa64a430a29c1a493dc9f670a1288de91688f3ee4957fab41ad8ae807bd98"
+file = "config/yosbr/config/ias.json"
+hash = "169f7d43162a95a8053d97e5dde7b2c8c297b8f534e4078a2ac902c7217291f5"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
+hash = "98019a1c70c0848b43633db6ab7d92c67741e81f4efcc1b72083f2efbe43760d"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -111,11 +119,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
-metafile = true
-
-[[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "34860c47ccaabe6c1b40aca50c445098526c3085f5274a7b3ed28e9625a25c83"
 metafile = true
 
 [[files]]
