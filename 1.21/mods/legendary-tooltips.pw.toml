@@ -1,0 +1,13 @@
+name = "Legendary Tooltips"
+filename = "LegendaryTooltips-1.21-fabric-1.4.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/atHH8NyV/versions/Wb73Fntb/LegendaryTooltips-1.21-fabric-1.4.10.jar"
+hash-format = "sha1"
+hash = "16cde23f661a94ddfdcec2a39a9c2581a53ccfea"
+
+[update]
+[update.modrinth]
+mod-id = "atHH8NyV"
+version = "Wb73Fntb"

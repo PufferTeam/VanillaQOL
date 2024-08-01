@@ -17,6 +17,10 @@ file = "config/yosbr/config/ias.json"
 hash = "169f7d43162a95a8053d97e5dde7b2c8c297b8f534e4078a2ac902c7217291f5"
 
 [[files]]
+file = "config/yosbr/config/legendarytooltips.toml"
+hash = "1947e71fddad5b1d2703565355a01a21f273ef45385c9e1e871be0e4a29ef0fe"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "a9ecd8badc1e1d28437b12f9bb609a8dc40ca34a9be13f40c3ec2c5666352a3d"
 
@@ -35,6 +39,11 @@ hash = "75bb96800fc384d4bebf3c202d0d85673e08bf246a40059490783aac8c6d16d8"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "e37035d5b1504b898352f78f3ccec9d0a6859ccaf038c03d9717004c5700d431"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "633f76611e057f7dd6195a26c54fe8841e30569792e4474e9963d950fbcd17e7"
+metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -132,6 +141,11 @@ hash = "423d97738ae580f12574452c6629d9b1b30754b3bde6a5d05cc838f204ef9fa1"
 metafile = true
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "8625ecc64637f1bc3de1b872017f5f83d448a0a8ef30c643c9a01cc68acb1b90"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
@@ -212,6 +226,11 @@ hash = "7915c02a4b5e846b8d0390857078e6d9fce8980b62416fb314fafee4ef8345d0"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "00a6addb35ee7e24825cc079823675a5845bc3bd010772a9f4873c23af2fdfc5"
+metafile = true
+
+[[files]]
 file = "mods/in-game-account-switcher.pw.toml"
 hash = "49e7fd585c233da81e0825d1679028c7e0bc1eb74dafa98f25cab88437f53ed1"
 metafile = true
@@ -239,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-language-loader.pw.toml"
 hash = "2dbfbcf3d122fa6f771b8bb49cfbd230b4374028336bb842070b851812ec26c7"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "da372cfe7b0a1bb3f9f476f52528141450977da06be2721204b8b3c5208d8e97"
 metafile = true
 
 [[files]]
@@ -337,6 +361,11 @@ hash = "239e24977c1dda258f9da6fba8ed1c2d83ddbe7bad03a279e3eac71a0426f656"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "ebb169127022042d142fe402135d5f687c5abf0f5e217096aef531f16ae96c92"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
 metafile = true
@@ -399,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "da7f1b8edc89a3cbd471f645f3d897c2e149db6b5446a4c0cb20bf0c8744fe79"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "a694429e03e20de9d94ddfe3964321ad981c16008f449789ee9ebb1c5c4470bc"
 metafile = true
 
 [[files]]
