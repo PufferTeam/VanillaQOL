@@ -326,6 +326,11 @@ hash = "12d7b32c101a504196e21070cccbccc19bb037d4b78e152f98570772c735e5d5"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "bbe8c6ff4ef8c7492ac928f51e2f69cecfa0b0c0ecdff5d34160fb3926c37f73"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "6fc9c29eac7fd4134058cd770faaf15adb204556f8688e3a9047a5f89aaba791"
 metafile = true
