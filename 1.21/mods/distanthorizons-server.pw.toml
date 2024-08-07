@@ -1,0 +1,8 @@
+name = "DistantHorizons"
+filename = "DistantHorizons-fabric-2.1.3-a-dev-1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/PufferTeam/VanillaQOL/main/1.21/mods/DistantHorizons-fabric-2.1.3-a-dev-1.21.jar"
+hash-format = "sha1"
+hash = "99ad4ac8482e8e4de6bf1bed2f848fcd82b25a03"

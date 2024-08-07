@@ -18,7 +18,7 @@ hash = "169f7d43162a95a8053d97e5dde7b2c8c297b8f534e4078a2ac902c7217291f5"
 
 [[files]]
 file = "config/yosbr/config/legendarytooltips.toml"
-hash = "1947e71fddad5b1d2703565355a01a21f273ef45385c9e1e871be0e4a29ef0fe"
+hash = "cc286c69d94d5201f3ac7b63b64ea74ba08d60c6954c2a8361489edc805cc7b3"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -136,8 +136,8 @@ hash = "18665392639c489a3711ee9b458b1cf5ae1a4480e8a766f0f323024f7bad6073"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "423d97738ae580f12574452c6629d9b1b30754b3bde6a5d05cc838f204ef9fa1"
+file = "mods/distanthorizons-server.pw.toml"
+hash = "33a5693233f42a8a5ed8b38dfcb07784c33412dd9198527f3226893ae002bad9"
 metafile = true
 
 [[files]]
