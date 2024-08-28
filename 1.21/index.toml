@@ -131,11 +131,6 @@ hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "218786ae392251f942fd7f76fa881787264748d97c986ba0cae95d2087e44460"
 metafile = true
@@ -231,11 +226,6 @@ hash = "7c62a8ffd834162d3d04eb9f7baa6aad151fa261569ebf767d299bee3e33d5f0"
 metafile = true
 
 [[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "49e7fd585c233da81e0825d1679028c7e0bc1eb74dafa98f25cab88437f53ed1"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
@@ -328,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "d723933e4c899a58bc37c692f343fb3662fafa0c57be3a8e148cca37efc5b32b"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "6fc9c29eac7fd4134058cd770faaf15adb204556f8688e3a9047a5f89aaba791"
 metafile = true
 
 [[files]]
