@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fcbcbedd1c08bc14874abfd0ca67307bd4b1219c62bc352ed7431f3a52adfd29"
+hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
 metafile = true
 
 [[files]]
@@ -213,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fa4c3cd5f545a8ec70db4e3255511c3013ae08c68f8c5277d0e88dfb57ede385"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2a1a9cc37324bc86db0944fe070878dbff660340232c20f84365070fd0cf6307"
 metafile = true
 
 [[files]]
